@@ -4,21 +4,30 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">   
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;500&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="assets/css/estilos.css">
 	<title>Landing Dog Package</title>
 </head>
 <body>
 	<header class="hero">
+		<nav>
+			<a href="">Inicio</a>
+			<a href="#quienes-somos">¿Quiénes somos?</a>
+			<a href="login.php">Iniciar Sesión</a>
+			<a href="">Registrarse-Empresa</a>
+			<a href="bd.html">Registrarse-Cliente</a>
+		</nav>
+		<section>
 		<div class="textos-hero">
 			<h1>¡Bienvenido a Dog Package!</h1>
 			<p>Porque nuestro objetivo es consentir a su mascota</p>
 			<a href="#contacto">Contáctanos</a>
 		</div>
 		<div class="svg-hero" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
+		</section>
 	</header>
 	
 	<section class="wave-contenedor website">
-		<img src="img/ilustracion2.jpg" alt="Como funcionamos">
+		<img src="assets/img/ilustracion2.jpg" alt="Como funcionamos">
 		<div class="contenedor-textos-main">
 			<h2 class="titulo left">¿Cómo funciona?</h2>
 			<p class="parrafo">Dog package es una página web diseñada para proporcionar interacción entre clientes que tengan perros, y empresas que les puedan brindar múltiples servicios a ellos. Para ello ambas partes deberán registrarse según el tipo de usuario que desean ser.
@@ -39,37 +48,37 @@
 		<h2 class="titulo">Algunos de los servicios</h2>
 		<div class="content-cards">
 			<article class="card">
-				<img src="img/ilustracion3.jpg" alt="Baño perros" style="height: 80px; overflow: hidden"  style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion3.jpg" alt="Baño perros" style="height: 80px; overflow: hidden"  style="height: 100%; width: 100%">
 				<h3>Baño para tus perros</h3>
 				<p>Aquí encontraras las empresas de baño.</p>
 				<a href="" class="cta">Subir</a>
 			</article>
 			<article class="card">
-				<img src="img/ilustracion4.jpg" alt="Paseo perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion4.jpg" alt="Paseo perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
 				<h3>Paseo para tus perros</h3>
 				<p>Aquí encontraras las empresas de paseo.</p>
 				<a href="" class="cta">Subir</a>
 			</article>
 			<article class="card">
-				<img src="img/ilustracion5.jpg" alt="Veterinaria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion5.jpg" alt="Veterinaria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
 				<h3>Veterinaria para tus perros</h3>
 				<p>Aquí encontraras las empresas veterinarias.</p>
 				<a href="" class="cta">Subir</a>
 			</article>
 			<article class="card">
-				<img src="img/ilustracion6.jpg" alt="Funeraria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion6.jpg" alt="Funeraria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
 				<h3>Funeraria para tus perros</h3>
 				<p>Aquí encontraras las empresas funerarias.</p>
 				<a href="" class="cta">Subir</a>
 			</article>
 			<article class="card">
-				<img src="img/ilustracion7.jpg" alt="Helados perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion7.jpg" alt="Helados perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
 				<h3>Helados para tus perros</h3>
 				<p>Aquí encontraras las empresas de helados.</p>
 				<a href="" class="cta">Subir</a>
 			</article>
 			<article class="card">
-				<img src="img/ilustracion8.jpg" alt="Guarderia perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
+				<img src="assets/img/ilustracion8.jpg" alt="Guarderia perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
 				<h3>Guarderia para tus perros</h3>
 				<p>Aquí encontraras las empresas de guarderia.</p>
 				<a href="" class="cta">Subir</a>
@@ -81,18 +90,18 @@
 				<div class="contenedor">
 					<h2 class="titulo">Nuestra funcionalidad principal es... </h2>
 					<article class="galeria-cont">
-						<img src="img/ilustracion9.jpg"  alt="funcionalidad">
-						<img src="img/ilustracion10.jpg" alt="funcionalidad">
-						<img src="img/ilustracion11.jpg" alt="funcionalidad">
-						<img src="img/ilustracion12.jpg" alt="funcionalidad">
-						<img src="img/ilustracion13.jpg" alt="funcionalidad">
-						<img src="img/ilustracion14.jpg" alt="funcionalidad">
+						<img src="assets/img/ilustracion9.jpg"  alt="funcionalidad">
+						<img src="assets/img/ilustracion10.jpg" alt="funcionalidad">
+						<img src="assets/img/ilustracion11.jpg" alt="funcionalidad">
+						<img src="assets/img/ilustracion12.jpg" alt="funcionalidad">
+						<img src="assets/img/ilustracion13.jpg" alt="funcionalidad">
+						<img src="assets/img/ilustracion14.jpg" alt="funcionalidad">
 					</article>
 					<p> Brindarles a los usuarios la posibilidad de registrarse según su necesidad. Todo ello con el objetivo de darle a las personas que tienen perros, la alternativa de elegir entre las empresas la opción que más se adapte a lo que buscan; y a las empresas, ofrecerles la oportunidad de que se hagan conocer por medio de esta.</p>
 				</div>
 			</section>
 
-			<section class="info-last">
+			<section id="quienes-somos" class="info-last">
 				<div class="contenedor last-section">
 					<div class="contenedor-textos-main">
 						<h2 class="titulo left">¿Quiénes somos?</h2>
@@ -101,7 +110,7 @@
 						<br>
 						<a href="" class="cta">Subir</a>
 					</div>
-					<img src="img/Nosotras.jpg" alt="Nosotras">
+					<img src="assets/img/Nosotras.jpg" alt="Nosotras">
 				</div>
 				
 				<div class="svg-wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #86C5DE;"></path></svg></div>
@@ -118,6 +127,5 @@
 					</form>
 				</div>
 			</footer>
-
-</body>
+	</body>
 </html>
