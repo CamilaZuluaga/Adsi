@@ -21,3 +21,4 @@ function loginUser(){
 			break;
 		}
 	})
+}

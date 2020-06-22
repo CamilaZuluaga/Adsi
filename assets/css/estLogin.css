@@ -6,13 +6,13 @@ body{
 	background: url(../img/ilustracion10.jpg);
 	background-size: cover;
 	background position: center;
-	font-family: sans-serif;
+	font-family: 'Raleway', sans-serif;
 	background-repeat: no-repeat;
 }
 
 .login-box{
 	width: 320px;
-	height: 400px;
+	height: 360px;
 	background: rgba(0, 0, 0, 0.5);
 	color: #fff;
 	top: 50%;

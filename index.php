@@ -5,16 +5,16 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">   
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;500&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/estilos.css">
+	<link rel="icon" type="image/png" href="assets/img/ico.png">
 	<title>Landing Dog Package</title>
 </head>
 <body>
 	<header class="hero">
 		<nav>
-			<a href="">Inicio</a>
+			<a href="index.html">Inicio</a>
 			<a href="#quienes-somos">¿Quiénes somos?</a>
 			<a href="login.php">Iniciar Sesión</a>
-			<a href="">Registrarse-Empresa</a>
-			<a href="bd.html">Registrarse-Cliente</a>
+			<a href="registro.php">Registrarse</a>
 		</nav>
 		<section>
 		<div class="textos-hero">
@@ -43,52 +43,9 @@
 			<p>Este sistema va dirigido para dos tipos de usuarios; el primero serán el de los clientes, los cuales podrán registrarse y escoger libremente la o las empresas que se acomoden a lo que necesitan, el segundo será el de las empresas, quienes tendrán la posibilidad de registrar todos los servicios que ofrecerán para satisfacer las necesidades del dueño del perro.</p>			
 		</div>
 	</section>
-
-	<section class="cards contenedor">
-		<h2 class="titulo">Algunos de los servicios</h2>
-		<div class="content-cards">
-			<article class="card">
-				<img src="assets/img/ilustracion3.jpg" alt="Baño perros" style="height: 80px; overflow: hidden"  style="height: 100%; width: 100%">
-				<h3>Baño para tus perros</h3>
-				<p>Aquí encontraras las empresas de baño.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-			<article class="card">
-				<img src="assets/img/ilustracion4.jpg" alt="Paseo perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
-				<h3>Paseo para tus perros</h3>
-				<p>Aquí encontraras las empresas de paseo.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-			<article class="card">
-				<img src="assets/img/ilustracion5.jpg" alt="Veterinaria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
-				<h3>Veterinaria para tus perros</h3>
-				<p>Aquí encontraras las empresas veterinarias.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-			<article class="card">
-				<img src="assets/img/ilustracion6.jpg" alt="Funeraria perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
-				<h3>Funeraria para tus perros</h3>
-				<p>Aquí encontraras las empresas funerarias.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-			<article class="card">
-				<img src="assets/img/ilustracion7.jpg" alt="Helados perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
-				<h3>Helados para tus perros</h3>
-				<p>Aquí encontraras las empresas de helados.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-			<article class="card">
-				<img src="assets/img/ilustracion8.jpg" alt="Guarderia perros" style="height: 80px; overflow: hidden" style="height: 100%; width: 100%">
-				<h3>Guarderia para tus perros</h3>
-				<p>Aquí encontraras las empresas de guarderia.</p>
-				<a href="" class="cta">Subir</a>
-			</article>
-		</div>
-	</section>
-
 			<section class="galeria">
 				<div class="contenedor">
-					<h2 class="titulo">Nuestra funcionalidad principal es... </h2>
+					<h2 class="titulo">Nuestra funcionalidad principal es...</h2>
 					<article class="galeria-cont">
 						<img src="assets/img/ilustracion9.jpg"  alt="funcionalidad">
 						<img src="assets/img/ilustracion10.jpg" alt="funcionalidad">
